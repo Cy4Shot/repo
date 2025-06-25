@@ -1,0 +1,7 @@
+Origin: brick
+Label: brick
+Codename: stable
+Architectures: amd64 arm64 source
+Components: main
+Description: Brick Repository
+SignWith: BC9A70B890B7F34B
