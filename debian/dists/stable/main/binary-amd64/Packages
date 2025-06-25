@@ -1,5 +1,5 @@
 Package: brick
-Version: nightly
+Version: nightly-15877063660
 Architecture: amd64
 License: MIT
 Maintainer: Tom Shtasel <tom.shtasel@gmail.com>
@@ -7,10 +7,10 @@ Installed-Size: 18802
 Homepage: https://cy4.dev/brick
 Priority: optional
 Section: 
-Filename: pool/main/b/brick/brick_nightly_amd64.deb
-Size: 4829110
-SHA256: 3d090992c832044afec44d60b8059a3964ffeb277c529cbe73dc2200b92d7cd5
-SHA1: b1d5fd68a1cdeda70be7dc778084d3b04b30878e
-MD5sum: 400f8f28b4d9df5f31ad4905e96e4b6f
+Filename: pool/main/b/brick/brick_nightly-15877063660_amd64.deb
+Size: 4829436
+SHA256: 2b20c3827486b4b4ff64f1345e0f461aea86bd93cca21a812acccd6d5220b183
+SHA1: 69a22c690b17240c784ad046a212c7d283a6ab25
+MD5sum: 498de3066b524d046cb2ac5f3032f25d
 Description: A  build tool for large programs
 
