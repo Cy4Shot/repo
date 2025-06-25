@@ -1,0 +1,16 @@
+Package: brick
+Version: 0.1.0
+Architecture: amd64
+License: MIT
+Maintainer: Tom Shtasel <tom.shtasel@gmail.com>
+Installed-Size: 18802
+Homepage: https://cy4.dev/brick
+Priority: optional
+Section: 
+Filename: pool/main/b/brick/brick_0.1.0_amd64.deb
+Size: 4829528
+SHA256: 8219a49a1a415fe44e4bb14dd8a4e32232d01acfdeba7311e251e7a49ddf3b23
+SHA1: df917bab6647fb7eb2c21dff13f2b0e32074adb4
+MD5sum: 081fd77617724cc0ce7c4f5cec6e3b9a
+Description: A  build tool for large programs
+
