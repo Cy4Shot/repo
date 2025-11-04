@@ -1,13 +1,13 @@
 Origin: brick
 Label: brick
 Codename: stable
-Date: Mon, 04 Aug 2025 18:10:06 UTC
+Date: Tue, 04 Nov 2025 00:43:51 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Brick Repository
 MD5Sum:
- c068328d809219fb4acacc3f80d1493e 466 main/binary-amd64/Packages
- b021b59940b388eaab40d5481ce82abf 356 main/binary-amd64/Packages.gz
+ 4a5318117a9e2ade8ea4c8f8f8be1f63 466 main/binary-amd64/Packages
+ ea82b008f835c83f6a3e7fe3c26a2f76 358 main/binary-amd64/Packages.gz
  c1a553271d3a5a92d260cb64d7d1d9e5 93 main/binary-amd64/Release
  10ab740a4ff930b3da963993613570e6 466 main/binary-arm64/Packages
  f82faeca969f2766f45a9416a3238c7b 356 main/binary-arm64/Packages.gz
@@ -16,8 +16,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  a509ef9441170db4cb251c8add25d823 94 main/source/Release
 SHA1:
- 23bb5c030b175ba16fb356384dc0ca32440a7c15 466 main/binary-amd64/Packages
- d36bed6bd8682962a0fc3226ad575b08116602a5 356 main/binary-amd64/Packages.gz
+ 86e163b5212e81dc2c885bbad4e3c0d36723726b 466 main/binary-amd64/Packages
+ 74c625fa48a0e4a4613d1a87e41037bd9a72d03d 358 main/binary-amd64/Packages.gz
  8409b24f66692fa835c4206d52c38eba5deea2ef 93 main/binary-amd64/Release
  8088a74895d6aa544f7aad9daf1d48b1eaeb5247 466 main/binary-arm64/Packages
  317eedf0192b39b742fc888b1c8ea847b3839ef5 356 main/binary-arm64/Packages.gz
@@ -26,8 +26,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  eb3a8f27c7f6f8869125686a17c13e36897e1a43 94 main/source/Release
 SHA256:
- 7a8bd046751769daf16afb3a7b0e4675aee194670a1ed72c78044a44dcb0560b 466 main/binary-amd64/Packages
- 1b99bd0379f65f8a9db5aab5c679311f6bfccf67da5aec388d204ce15c0b3bfa 356 main/binary-amd64/Packages.gz
+ f2f5ec37a011c903f9db70ca9214b68b3edc2ff48dd48f1fa2e1c333d9eaf563 466 main/binary-amd64/Packages
+ 1aa602b31bc4137a94844527bd815de8003029b6809214e46f6f12497bc0189c 358 main/binary-amd64/Packages.gz
  78f9a5e7adea71c2504f8ef07d7ec3b2275a4b9d0b35f0dcecda7a4cc3564e11 93 main/binary-amd64/Release
  ed8c7d5f2ea05a0fc8be08b9a45c2be62b01b19c2086ad34b7db5a2ee095a794 466 main/binary-arm64/Packages
  281d7783cef50b8ee5cba1bc1cfaecf8f93059dd0c6ce5a61fddee7aec10e807 356 main/binary-arm64/Packages.gz
